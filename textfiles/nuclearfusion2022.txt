@@ -1,0 +1,924 @@
+Fusion Energy
+For Peace and Sustainable Development
+
+Foreword
+The International Atomic Energy Agency (IAEA) is dedicated to helping all countries benefit from
+the peaceful, safe, secure and sustainable use of nuclear science and technology in many fields,
+including energy production.
+Fusion energy has the potential to become a virtually inexhaustible, safe, environmentally-friendly
+and universally-available energy source, capable of meeting global energy requirements.
+Fusion energy has existed for billions of years shining benevolently upon the earth but mankind
+still has not managed to capture it in a controlled manner. To make fusion energy production a
+reality, enormous scientific and technical challenges still need to be overcome. The IAEA is leading
+international efforts to coordinate research in fusion technology by involving nuclear physicists,
+material scientists, nuclear data specialists, metallurgists, and plasma experts among others.
+Since the early days of its inception, in 1957, the IAEA has supported nuclear fusion research. The
+IAEA Department of Nuclear Sciences and Applications and the Department of Nuclear Energy
+implement the IAEA’s activities on nuclear fusion, under the guidance of the International Fusion
+Research Council, an IAEA advisory body with members from all parts of the world.
+Big strides in understanding fusion energy science have been made. But more efforts with increased
+global collaboration, greater investment and coordinated research are required to make nuclear
+fusion energy production a reality. The IAEA continues to be at the forefront of these international
+efforts.
+
+Mikhail Chudakov
+
+Aldo Malavasi
+
+IAEA Deputy Director General and
+Head of the Department of Nuclear Energy
+
+IAEA Deputy Director General and Head of the
+Department of Nuclear Sciences and Applications
+
+1
+
+Clean Energy through Fusion Technology:
+A Sun on Earth
+A ‘sunny day’ or a ‘sunny smile’ is always welcome by all of us! Apart from
+brightening up our days, many of us recognise that the ‘Sun’ is the basis of life on
+earth. The incessant emission of energy and light from the Sun with an unending
+stock of fuel engenders, without exception, curiosity in thinkers and scientists.
+This is what excites global interest in fusion technology.
+Fusion energy is attracting a lot of attention as the world’s energy demands keep
+multiplying. The excessive dependence on fossil fuels and its impact on climate
+change due to carbon emissions are leading policy makers to consider fusion as
+a good option to explore.
+
+Meera Venkatesh
+Director, Division of Physical
+and Chemical Sciences, IAEA
+Department of Nuclear Sciences
+and Applications
+
+Enhancing clean energy production through
+fusion technology
+Through extensive exploration using various tools, logical reasoning and ingenuity,
+scientists have proven that a seemingly simple combination of the nuclei of two
+very light atoms (tritium and deuterium — both heavier isotopes of hydrogen)
+spews out enormous amounts of energy. Such fusion of nuclei — or ‘nuclear
+fusion’ — has been a topic of great interest and intensive research since the
+1920’s.
+It is mind-boggling that the deuterium contained in 0.5 litre of ordinary water
+can provide enough energy for a single family house in Europe for a year, when
+properly fused with tritium in a fusion reactor.
+But despite the apparent simplicity, harnessing commercially-viable fusion power
+is a very challenging endeavour, although fusion reactions have been successful
+during experiments and the technologies are continually evolving to address the
+challenges.
+
+The difficulties facing fusion technology
+Making commercially-viable fusion power a reality is fraught with serious
+technological challenges such as the ability to create an environment similar to
+that of the sun. This means reaching temperatures exceeding 100 million degrees
+Celsius and confining the fusion fuel to the vessel within the reactor. Additionally,
+finding the right material to construct the fusion reactor, and developing the
+mechanism that will be used to extract the enormous energy/heat that is emitted,
+are among the other major challenges in the quest to produce electricity from
+fusion.
+
+2
+
+“Harnessing commercially-viable
+fusion power is a very challenging
+endeavour, although fusion
+reactions have been successful
+during experiments and the
+technologies are continually
+evolving to address the challenges.”
+
+Making progress through international collaboration
+To scientists, it was clear from the very beginning that success in using fusion
+technology would require international cooperation. At the second UN Conference
+on the “Peaceful Uses of Atomic Energy” in Geneva in 1958, discussion on
+nuclear fusion led to the newly created International Atomic Energy Agency being
+entrusted with the responsibility to lead the global collaboration. Five decades
+later the IAEA remains the natural home for fostering international collaboration in
+fusion research and development (R&D) through facilitating exchange of scientific
+and technical information. Supported by the dedicated community of fusion
+researchers in the Member States, the Nuclear Fusion Journal was set up in 1960
+by the IAEA to disseminate knowledge in this niche area of science. Today the
+journal is considered the main source of information about advances in nuclear
+fusion.
+Since 1961 the IAEA has also been organizing ‘Fusion Energy Conferences’
+(initially named Conference on Plasma Physics and Controlled Nuclear Fusion
+Research) to enable the dedicated fusion research professionals to periodically
+discuss developments and achievements.
+An International Fusion Research Council was also established in 1971 to advise
+and provide guidelines to the IAEA Secretariat on matters relating to the Fusion
+R&D programme.
+
+The signing of the Agreement that
+established the ITER Organization.
+(Photo: IAEA)
+
+The fusion research community and the IAEA continue interacting closely on the
+development and evaluation of fusion-relevant basic data for nuclear, atomic and
+molecular interaction processes in fusion.
+The Sun.
+(Photo: NASA)
+
+IAEA’s role in international fusion endeavours
+The impetus for the establishment of the international organization for fusion
+energy, ITER (International Thermonuclear Experimental Reactor) in 2006 came
+from discussions in IAEA fora that covered several initiatives for collaboration on
+an international fusion facility. The IAEA Director General is the depository of the
+ITER Agreement.
+ITER, under construction in Cadarache, France, is the largest global scientific
+collaboration aimed at demonstrating the scientific and technological feasibility
+of fusion energy production.
+Currently 35 countries are involved in the ITER project. In addition, individual
+countries are engaged in research for fusion to become a future source of energy.
+There is a growing expectation, especially in the fusion community that ‘fusion
+electricity’ would light the bulbs of their homes soon. While science and technology
+issues for fusion power are broadly agreed upon, the next steps to upscale the
+
+3
+
+technology to practical use are still some distance away. Here, the IAEA plays a
+crucial role in bringing together all the Member States interested in fusion energy
+through the demonstration fusion power plant (DEMO) Programme Workshops.
+This workshop aimed to help experts define the facilities and activities that can
+lead to the resolution of some of the key scientific and technological challenges
+to developing a DEMO. Such DEMO would show that controlled nuclear fusion
+can generate net electrical power and mark the final step before the construction
+of a commercial fusion power plant.
+The scientific community recognises that the realisation of fusion power reactors
+would be a landmark achievement, taking nuclear science and technology to
+another level.
+
+Status of the ITER construction site as
+of 2018.
+(Photo ITER Organization)
+
+4
+
+Nuclear Fusion: The Key to a Sustainable Planet
+Matteo Barbarino, IAEA Department of Nuclear Sciences and Applications
+Sehila Gonzalez de Vicente, IAEA Department of Nuclear Sciences and Applications
+Danas Ridikas, IAEA Department of Nuclear Sciences and Applications
+Providing energy from nuclear fusion is widely regarded as the grand engineering
+challenge of the twenty-first century. Many researchers all over the world focus on
+ways of producing energy by recreating an artificial star on Earth.
+
+Stars burning hydrogen in a fusion way. Life
+on Earth would not be possible without the
+nuclear fusion reactions that power our Sun.
+(Photo NASA).
+
+5
+
+Unlike fission, where the atom is split to produce energy, in fusion two lighter
+nuclei are joined together to make a heavier nucleus, while energy is released.
+This is how stars convert tiny amounts of mass into vast amounts of energy (in line
+with to Einstein’s famous equation E=mc2). Life on Earth would not be possible
+without the nuclear fusion reactions that power our Sun.
+
+Nuclear fusion. Two lighter nuclei are
+joined together to make a heavier nucleus,
+while energy is released.
+(Photo IAEA).
+
+Burning Hydrogen
+The most convenient fusion process involves two isotopes of hydrogen:
+deuterium (heavy hydrogen) and tritium (super heavy hydrogen). This reaction,
+which is also the easiest to perform because it requires the lowest investment in
+terms of power supplied, yields a helium nucleus and a neutron, whose energies
+can be harvested for powering the reactor and producing electricity, respectively.
+
+Hydrogen atom and its isotopes. The
+most convenient fusion process involves
+two isotopes of hydrogen deuterium
+(heavy hydrogen) and tritium (super heavy
+hydrogen).
+(Photo IAEA).
+
+6
+
+Tapping the Energy
+At the core of the stars, fusion reactions between hydrogen
+atoms take place within dense plasma with temperatures
+exceeding 10 million °C. Plasma is a “fourth state of
+matter” with unique properties, distinct from solids, liquids
+and gases. It consists of freely moving charged particles
+and is formed at high temperatures when electrons are
+stripped from neutral atoms. More than 99 percent of the
+universe as we currently understand it exists as plasma,
+including interstellar matter, stars and the Sun.
+In a controlled nuclear fusion power plant, three
+conditions must be fulfilled:
+•	 
+very high temperature (more than 10 times hotter
+than at the centre of the Sun, hence exceeding
+100 million °C) to provoke highly energetic collisions
+at extreme speed;
+•	 sufficient particle density in the plasma – where the
+reaction takes place – to increase the probability of
+collisions;
+•	 sufficient confinement to hold the plasma and allow
+the fusion reactions to take place continuously.
+The most performing confinement concept to date has
+been the tokamak, a doughnut shaped configuration first
+invented in the 1950s, which uses powerful magnets to
+confine the plasma. However, in recent years there has
+been a renewed enthusiasm for stellarators, and the
+world’s largest one has been operating in Germany since
+2015. The tokamak is better at keeping the plasma hot
+while the stellarator is inherently stable and able to operate
+the plasma in a steady state. By now, these machines
+can provide the essential conditions for fusion, in terms
+of both plasma density and the required temperature,
+and fusion power can be generated. The missing piece to
+producing net power remains better confinement, which
+is a measure of how good the magnetic field is at keeping
+the plasma energy, for which a bigger reactor is needed.
+
+Illustration by Jacob Escobedo.
+
+7
+
+Wendelstein 7-X
+Wendelstein 7-X in Germany is the world’s largest fusion device of the stellarator
+type. Its objective is to investigate the suitability of this type for a power plant. As
+a result, a record value for stellarators fusion triple product (a plasma's particle
+density, energy confinement time, and ion temperature) was achieved in 2018.
+Tokamak (left) vs Stellarator (right). The
+tokamak is better at keeping the plasma
+hot, while the stellarator is inherently
+stable and able to operate the plasma in
+a steady state.
+
+ITER – the Way to New Energy
+ITER will be the largest tokamak ever built, two times bigger than the largest
+tokamaks operating today, and it has been designed for demonstrating the
+feasibility of fusion energy for peaceful purposes. With ITER construction, the
+focus of nuclear fusion science is slowly shifting from pure research to technology,
+material science and engineering. It is expected that ITER will start operating in
+2025. However, it is important to note that it is not part of ITER’s mission to
+convert energy into electricity and transmit it to the electricity grid.
+
+Wendelstein 7-X.
+(Photo IPP).
+
+ITER design. This machine has been
+designed for demonstrating the feasibility
+of fusion energy for peaceful purposes.
+(Photo ITER Organization)
+
+8
+
+DEMO – Putting the Power into the Grid
+Depiction of a DEMO.
+(Photo Eurofusion)
+
+The technological challenges of bringing fusion power to the electricity grid will be
+addressed by a demonstration fusion power plant (DEMO)-type reactor. Individual
+countries are exploring ways to do this, and the IAEA is providing a platform for
+information exchange in order to facilitate research and technology development.
+DEMO is the machine that would explore continuous or near-continuous (steadystate) operation, tritium fuel self-sufficiency, and the large-scale production of
+energy and its conversion to electricity. This would represent the next stage after
+ITER.
+China has made significant progress in planning for a device called China Fusion
+Engineering Test Reactor (CFETR) that would bridge the gap between ITER
+and DEMO. Construction of the CFETR could start in 2020 and be followed by
+construction of a DEMO in the 2030s.
+The European Union and Japan are jointly building a powerful tokamak called JT60SA in Naka, Japan, as a complement to ITER in the framework of a partnership
+called the Broader Approach Activities. In addition to constructing the JT-60SA,
+the joint programme consists of two other projects, the Engineering Validation
+and Engineering Design Activities for the International Fusion Materials Irradiation
+Facility (IFMIF/EVEDA), and the International Fusion Energy Research Centre
+(IFERC). This partnership represents a well-integrated approach to support
+ITER and to prepare to undertake the engineering design and construction of a
+subsequent DEMO.
+India has announced plans to begin building a device called SST-2 to develop
+components for a DEMO around 2027, and then start construction of a DEMO in
+2037.
+South Korea initiated a conceptual design study for a K-DEMO in 2012 targeting
+the construction by 2037 with potential for electricity generation starting in 2050.
+In its first phase (2037-2050), K-DEMO will develop and test components and
+then utilize these components in the second phase after 2050 to demonstrate net
+electricity generation.
+
+9
+
+Russia plans the development of a fusion-fission hybrid facility called DEMO
+Fusion Neutron Source (FNS), a reactor that would harvest the fusion-produced
+neutrons to turn uranium into nuclear fuel and destroy radioactive waste. The
+DEMO-FNS is planned to be built by 2023, and is part of Russia’s fast-track
+strategy to a fusion power plant by 2050.
+The United States of America is considering an intermediate step called Fusion
+Nuclear Science Facility (FNSF) to be used for the development and testing
+of fusion materials and components for a DEMO-type reactor. Plans call for
+operation to start after 2030, and construction of a DEMO after 2050.
+
+Fusion as a Sustainable Energy Source
+Although much remains to be done to reach commercial electrical power, nuclear
+fusion is one of a very few sustainable options to replace fossil fuels as the world's
+primary energy source. Fusion fuel – produced from water and lithium – is in
+principle so abundant that fusion energy would be inexhaustible and deployable
+everywhere on the planet. Hence, fusion could guarantee nearly unlimited energy
+and security of supply at no expense to the environment. In addition, fusion
+has the potential to be a large baseload source of electricity with a carbon-free
+footprint, and with no high level radioactive waste. Finally, fusion is an inherently
+safe process that can be stopped at any moment simply by turning the power off.
+Fusion power bears the promise of:
+•
+
+clean energy production and transmission;
+
+•	 proliferation-resistant fuel cycle that does not generate high level radioactive
+waste;
+•
+
+power plants with inherently safe technology features;
+
+•
+
+abundant and inexpensive fuel readily available to all nations.
+
+Big strides in understanding fusion energy science have been made, but more
+efforts with increased international collaboration, greater investment and
+coordinated research are necessary to make nuclear fusion energy production
+a reality.
+
+Sustainable Development Goals
+7 and 13. Ensure access to
+affordable, reliable, sustainable
+and modern energy for all.
+Fusion energy can contribute to
+improving energy security, redcing
+environmental and health impacts,
+and mitigating climate change.
+(Photo: United Nations)
+
+10
+
+IAEA’s Coordinated Research Projects: Sharing Knowledge
+and Training through Global Partnership
+Matteo Barbarino, IAEA Department of Nuclear Sciences and Applications
+Sehila Gonzalez de Vicente, IAEA Department of Nuclear Sciences and Applications
+Danas Ridikas, IAEA Department of Nuclear Sciences and Applications
+Building and maintaining partnerships with experts in Member States are key
+IAEA activities. Global cooperation is essential for the ultimate success of fusion
+energy. Through the framework of its Coordinated Research Projects (CRPs), the
+IAEA acts as a communication facilitator by bringing scientists and experts from
+many countries together to exchange information, identify critical issues and
+transfer specific knowledge for nuclear fusion development projects.
+With a long history of working together under IAEA coordination, around 70
+Member States are involved in plasma physics and fusion technology. The
+cooperation among laboratories and facilities contributes significantly to the
+development of fusion research and technology, and the formulation of the
+necessary guidelines and related standards. It also provides the groundwork
+needed for training the new generation of scientists and engineers in fusion, and
+for developing the diagnostics and technology of next step fusion devices such
+as ITER and DEMO.
+
+Network of Small and Medium Size
+Magnetic Confinement Fusion Devices
+An excellent example for this long-lasting partnership is the IAEA CRP on
+‘Network of Small and Medium Size Magnetic Confinement Fusion Devices for
+Fusion Research’ — a continuation of former highly successful IAEA activities on
+small-medium size tokamaks, supported since 2004. Currently, around 40 smallmedium size devices (tokamak and stellarators) are operational in 15 Member
+States.
+
+Sustainable Development Goal 17.
+Global partnership for sustainable
+development. IAEA Member States
+share knowledge, technologies and
+best practices through Coordinated
+Research Projects.
+(Photo: United Nations)
+
+Researchers working with the small and medium-size devices are already making
+significant contributions toward achieving controlled fusion energy: the potential
+impact of tighter collaborations between them are even more significant.
+With the next generation of large-scale fusion devices — such as ITER in France
+— preparing for action, the laboratories with small and medium-size devices
+could help push the research agenda forward. By establishing and sustaining a
+network of laboratories that will perform joint and comparative experiments, train
+
+11
+
+Picture of the vessel of a toroidal
+magnetic confinement fusion device
+– COMPASS tokamak.
+(Photo IAEA).
+
+personnel across institutions and Member States, and educate a new generation
+of fusion scientists in cutting-edge technologies, this CRP advances fusion
+research by building strong ties between research groups and training future
+fusion experts.
+The specific research objectives of this CRP are to:
+•
+
+publish results from coordinated and joint experiments on turbulence and
+transport, the role of electric fields, and possible mechanisms of turbulence
+self-regulation;
+
+•
+
+develop new computational techniques for modelling plasma processes,
+particularly for real time analysis requiring high-data volume processing;
+
+•
+
+develop prototypes and models for new advanced diagnostics;
+
+•
+
+promote mobility and training of fusion researchers.
+
+Small and medium-size fusion
+devices can contribute to making
+significant improvements towards
+the scaling-up to larger fusion
+machines.
+(Photo IAEA and Eurofusion).
+
+12
+
+Development of Steady-State Compact Fusion
+Neutron Sources
+Fusion neutron sources have many important practical uses, such as assisting
+fission reactions, manufacturing medical isotopes, testing materials and
+components for use in future fusion reactors, and facilitating the production of
+various isotopes like tritium. All these applications could be improved by achieving
+higher Compact Fusion Neutron Sources (CFNS) energy levels.
+Earlier projects investigated a wide range of power options for CFNS, and
+confirmed that the potential for significantly higher intensities and fluxes is
+achievable in the near future.
+This CRP aims to demonstrate that even higher ranges of energy for CFNS are
+feasible, and to support the transition from conceptual to engineering design
+activities for those compact fusion neutron sources that fit within the scope of the
+energy levels the project deals with.
+The specific research objectives of this CRP are to:
+•
+
+produce a detailed and substantiated overview of applications of CFNS with
+currently feasible parameters in the fusion and fission areas as well as in any
+other potential field;
+
+•
+
+define R&D programmes that can support the transition to engineering design;
+
+•
+
+perform a comprehensive safety analysis for proposed CFNS;
+
+•
+
+obtain results of joint activities on design, simulations, and experiments
+pertinent to the development of a scientific and technological basis for CFNS;
+
+•
+
+create simulation and modelling tools;
+
+•
+
+gather input from stakeholders related to design activities for CFNS.
+
+Illustration of a fusion neutron
+source based on magnetic mirror –
+Gas Dynamic Trap.
+(Photo IAEA)
+
+Standardization of Small Specimen Test Techniques
+Structural materials development and research on materials suitable for the
+extreme conditions in a fusion reactor are needed to achieve safety and efficiency
+of future fusion power plants. Fusion materials development will depend on the
+progress made in irradiation physics and fusion materials research.
+The CRP Towards the Standardization of Small Specimen Test Techniques for
+Fusion Applications addresses the issues of limited testing volume with needed
+neutron fluxes in accelerator-driven fusion-relevant neutron sources. This CRP
+coordinates the production of guidelines based on best practices on main test
+
+13
+
+techniques for reference structural fusion materials (tensile, creep, low cycle
+fatigue, fracture toughness, fatigue crack growth rate). These guidelines should
+be the first step towards a full standardization of the standard specimen test
+techniques.
+The specific research objectives of this CRP are to:
+•	 
+analyse the data available on Small Specimen Test Techniques (SSTT)
+focusing on fusion structural reference materials (RAFM steels) and produce a
+comprehensive reference database;
+•	 establish reference guidelines for tensile tests using small specimens for the
+selected materials;
+•	 establish reference guidelines for creep tests, low cycle fatigue tests, fracture
+toughness tests and fatigue crack growth rate using small specimens for the
+selected materials;
+•
+
+define meaningful round robin tests for establishing best practices in the field;
+
+•	 
+define the SSTT to be used for characterization of irradiate materials in
+dedicated fusion neuron sources;
+•
+
+establish guidelines for common practice in the use of SSTT.
+
+The Bridge of Knowledge
+For the more than 120 IAEA Member States that are not part of the ITER
+Organization, the IAEA performs an important bridging function, disseminating
+knowledge from ITER to the wider community and vice-versa, providing a platform
+for both the scaling up to larger fusion machines and for exchange between ITER
+and the rest of the world.
+
+ITER made of Lego.
+(Photo Sculpture by Sachiko Akinaga;
+photograph by Hironobu Maeda).
+
+14
+
+The Challenges of Controlled Nuclear Fusion
+Christian Hill, IAEA Department of Nuclear Sciences and Applications
+The development of commercially-viable fusion power faces serious technological
+challenges, the most challenging of which are:
+•	 achieving and sustaining temperatures in excess of 100 million °C, whilst
+confining the hot fusion plasma to the reactor vessel;
+•
+
+finding the right material from which to construct the fusion reactor vessel;
+
+•	 developing the technology to breed the tritium component of the fusion fuel
+from the neutrons released in an ongoing reaction; and
+•	 designing the mechanism that will be used to extract the enormous amount of
+energy that is produced and convert it to electricity.
+
+Plasma Confinement
+In a fusion process, the high-temperature plasma must be confined for long
+enough for the fuel nuclei to combine. In the Sun, the pressure caused by the
+hydrogen fusion is balanced by the inward-acting force of gravity to keep the
+solar core in equilibrium, but this force is far too weak to provide the necessary
+confinement on the scale of an Earth-based reactor. Instead, most concepts
+for fusion reactors are based on magnetic confinement: since the nuclei and
+electrons are charged, they can be deflected by a magnetic field. In the most
+common design of magnetic confinement device, the tokamak, magnetic fields
+are used to drive the plasma around a torus-shaped reaction chamber and keep
+it from getting too close to the reactor’s “first wall” which they would otherwise
+damage.
+
+The ITER Tokamak will rely on three
+sources of external heating to bring
+the plasma to the temperature
+necessary for fusion: neutral beam
+injection and two sources of highfrequency electromagnetic waves
+(ion and electron cyclotron heating).
+(Photo: ITER Organization)
+
+However, the plasma confinement is never perfect and periodically instabilities
+arise, which send plumes of hot plasma into the reactor wall, reducing its lifetime.
+Research is ongoing to better understand, model and mitigate these instabilities:
+the reactor components must survive long enough before they need to be
+replaced for the reactor to produce energy on a commercial basis.
+A further concern is the construction and operation of the large, superconducting
+electromagnets required to create the magnetic fields. These are expensive,
+heavy and consume a large amount of energy themselves. They operate only
+at very low temperatures (-270 °C, just 4°C above absolute zero), but in close
+proximity to the hot plasma (>100 million °C), which creates the largest known
+temperature gradient in the entire universe.
+
+15
+
+Heating and Fuelling the Plasma
+Before fusion can occur, a stable, high-temperature plasma of deuterium and
+tritium must be created. The magnetic field driving the plasma particles in a
+current around a tokamak creates some of this heating through (non-fusion)
+collisions but to reach the very highest temperatures required additional heating
+is necessary. This is provided through high-frequency electromagnetic radiation
+(analogous to the heating brought about in a microwave) and through neutralbeam injection: a high-speed beam of particles (which must be uncharged to
+penetrate the magnetic field) is fired into the plasma where it transfers its energy
+through collisions.
+Alongside the processes which heat the plasma, impurities can lead to it cooling
+through unwanted collisions and the emission of light.
+The deuterium-tritium fusion process requires tritium as a component of its fuel.
+Tritium is a radioactive isotope of hydrogen with a half-life of 12.3 years and
+does not occur naturally in any significant quantities. However, it can be formed
+(“bred”) in a nuclear reaction by neutron activation of 6Li, an isotope of lithium:
+Li + 1n → 3T + 4He
+
+6
+
+The proposed approach is to surround the reactor with a “blanket” of a lithiumcontaining material which would slow down and capture some of the neutrons
+produced by the fusion reaction to breed the tritium fuel. The 6Li reaction also
+releases energy and so can contribute to the reactor’s power output.
+
+Reactor Materials
+The development of suitable materials from which a nuclear fusion reactor can be
+constructed is the subject of ongoing research. Such materials should have the
+following properties for a reactor to be viable:
+•	 a high melting point and conductivity, and resilience with respect to damage
+through exposure to the high-energy plasma particles;
+•	 
+a low propensity to become activated (become radioactive) through
+bombardment by the high-energy neutrons produced by the fusion reaction;
+•	 a low tendency to absorb tritium: as well as reducing the amount available as
+fuel, the retention of tritium creates radioactive waste, which would require
+special handling when decommissioning the reactor material.
+The last property all but rules out the use of carbon-based materials as a plasmafacing component. ITER will use a beryllium and tungsten; it is anticipated that
+DEMO will employ “reduced-activation steel” and tungsten.
+
+16
+
+The IAEA’s Atomic and Molecular Data (AMD) Unit:
+Activities in Support of Fusion
+The AMD Unit helps address the challenges of developing controlled nuclear
+fusion by:
+•
+
+providing a trusted and permanent repository of fundamental data;
+
+•	 bringing together experts to evaluate such data and carry out research through
+the IAEA’s Coordinated Research Project (CRP) programme;
+•	 providing a platform on which non-experts can become involved in research
+and data analysis through crowdsourcing activities.
+Some of the activities in support of fusion over the last 10 years are described
+below.
+
+The Characterization of Size, Composition and Origins of Dust in Fusion
+Devices
+Depending on the material used in their plasma-facing components, tokamaks
+can produce a significant amount of dust from erosion of the reactor components.
+This dust can retain tritium, lead to impurities in the fusion plasma and create a
+health hazard for workers exposed to it during reactor maintenance. This CRP
+addressed the data needs relating to such dust and created a database of dust
+properties for regulatory and other analysis.
+
+Fundamental Data for Modelling Collisional Processes Involving Isotopes of
+Hydrogen and Helium in Fusion Plasmas
+These species are the principal components of a fusion plasma, and, away from
+the core plasma where the temperature is lower, they exist in many different
+excited atomic and molecular states which are interchanged through collisions.
+This CRP provided evaluated data to better model the physics of these collisional
+processes and provide input for tokamak design and operation.
+
+CRPs on plasma-wall interactions
+Beryllium, tungsten and steel are all candidate materials for plasma-facing
+components in experimental fusion reactors. However, too little is known about
+their behaviour under the extreme conditions they are exposed to. The following
+projects coordinated international experimental and theoretical research into the
+properties of these materials:
+
+17
+
+Data for Erosion and Tritium Retention in Beryllium Plasma-Facing Materials
+Beryllium is an attractive material to use in experimental reactors as it conducts
+heat well, does not create much dust or cool the plasma much when it acts as
+an impurity and does not become radioactive through interactions with neutrons.
+The JET and ITER tokamaks use beryllium as the major component of their first
+reactor walls. This CRP provided evaluated data on the interactions of beryllium
+with plasma particles to further assess its suitability and inform the simulation of
+these and other tokamaks.
+Plasma-Wall Interaction with Irradiated Tungsten and Tungsten Alloys in
+Fusion Devices
+Tungsten is another widely-used material in tokamaks, used in the divertor
+component of JET and ITER, which is exposed to some of the highest heat loads
+in the reactor. This CRP brought together over 20 research groups from around the
+world to coordinate research into how the properties of tungsten are altered in the
+intense radiation environment of a fusion reactor. For example, pure, undamaged
+tungsten has little tendency to absorb hydrogen (and hence the tritium fuel of
+the fusion reaction), but bombardment by neutrons and other energetic particles
+creates cracks, bubbles and voids that increase its propensity to do so. This
+behaviour must be understood to make confident predictions about the suitability
+of tungsten in a future commercial reactor.
+Plasma-wall Interaction with Reduced-activation Steel Surfaces in Fusion
+Devices
+Steel is considered to be a candidate plasma-facing material for the planned
+DEMO Demonstration Power Station which, it is proposed, will follow ITER as a
+prototype commercial fusion power plant. Steel does not cool the fusion plasma
+as much as tungsten when it acts as an impurity and is less toxic and less prone
+to erosion than beryllium. However, its composition must be carefully controlled to
+exclude nuclei which become radioactive under exposure to the fusion neutrons.
+This ongoing CRP brings together experts to compare different candidate steels
+under suitably-chosen conditions with respect to their resistance to erosion and
+hydrogen retention.
+Data for Atomic Processes of Neutral Beams in Fusion Plasma
+As described above, neutral beam injection is a method for heating and providing
+diagnostics on fusion plasmas in tokamaks. This ongoing CRP brings together
+experts in fundamental atomic data with modellers of neutral beam physics
+to validate their simulation codes and fill gaps in the community’s necessary
+
+18
+
+Carbon composites, beryllium
+and tungsten are considered as
+candidate materials for next step
+fusion devices.
+(Photo: ITER Organization)
+
+knowledge base. This will help researchers to better understand the
+collisional processes involved and thereby improve the technology
+and accuracy of data analysis.
+Databases and Data Evaluation
+The AMD Unit is responsible for the long-term management of several
+databases of fundamental atomic and molecular properties, including
+ALADDIN (a searchable repository of evaluated collisional data for
+fusion-relevant processes), and AMBDAS (a bibliographic database);
+both are widely used in the research community and recognised for
+their permanence, authority and accessibility.
+The Unit’s databases are continuously improved and expanded
+through Technical Meetings on specific data needs of the fusion
+community, the quantification and implication of uncertainties in data
+and on techniques for data validation, curation and dissemination.
+Crowdsourcing “Challenges”
+The Unit has recently run a successful crowdsourcing “challenge”
+project inviting non-specialist data scientists to analyse simulations of
+neutron radiation damage in materials for fusion reactors in order to
+better understand, classify and predict their behaviour. Since, with rare
+exceptions, it is prohibitively expensive to conduct actual experiments
+on the irradiation of materials by high-energy neutrons, researchers
+have developed virtual, computer-based “molecular dynamics”
+simulations of the processes that occur following the impact of a
+neutron on an atom in a solid crystal. The energy of a single fusion
+neutron is so great that the material locally melts and then resolidifies,
+leaving many atoms displaced from their original locations. This results
+in material damage, including dislocations and clusters of vacancies
+and interstitial atoms in the initially perfect crystal lattice. Such damage
+needs to be understood, since it weakens the material and increases
+its propensity to absorb the valuable tritium fuel.
+
+A visualization of the “collisional
+cascade” resulting from the impact
+of a high-energy neutron on an
+atom of tungsten in a crystal.
+(Photo: Andrea Sand, University of Helsinki)
+
+The computer simulations can be run repeatedly for different materials,
+and impact energies and directions, yielding a large number of virtual
+crystal configurations. The challenge set to subscribers to this
+exercise was to produce software that analyses these configurations
+to identify and visualise their important features. In this way, the
+algorithms produced will help identify candidate materials with the
+desired properties for use in an economically-viable nuclear fusion
+power reactor.
+
+19
+
+Widening Awareness of Fusion Science and Technology:
+IAEA Publications
+Sophia Le Masurier, IAEA Division of Conference and Document Services
+The IAEA’s publishing activities have played a significant role in the dissemination
+of information to its Member States. The first technical books were issued in
+1958 and, since then, the IAEA has established itself as a leading publisher in the
+nuclear field. It now publishes over 100 titles annually, ranging from case studies
+to international safety standards.
+In the area of fusion, and in tandem with the IAEA’s technical activities, the
+publishing activities have supported Member States engaged in the field of
+plasma physics and fusion technology in the following ways: dissemination of
+research results; assistance and information provision to researchers; facilitation
+of international collaborative activities such as ITER; documentation arising from
+technical meetings, workshops and conferences; and the provision of educational
+resources, including textbooks and training courses. The publications offer an
+unbiased and authoritative source of information. They are driven by developments
+in the field and by the changing needs of Member States.
+
+Dissemination of Research
+Nuclear Fusion
+One of the most important contributions that the IAEA’s publishing activities make
+in support of fusion research is the provision of a high quality, peer reviewed
+forum. The journal Nuclear Fusion was launched in 1960. It is now the most
+frequently cited journal in the field. Nuclear Fusion is steered by an international
+board of eminent scientists, who give direction on content and policy. It facilitates
+communication between research groups worldwide, disseminating results and
+concepts and aiding collaboration. The journal now regularly receives submissions
+from over 30 countries and its geographical balance reflects the significant body
+of work being done globally in fusion. Every major advance in fusion has been
+reflected in the journal’s published articles.
+
+Conference material
+The IAEA has an active programme of conferences the results of which are
+captured in published proceedings, summary reports or in online collections.
+
+20
+
+Papers from the flagship biennial IAEA Fusion Energy Conference have been
+published in various forms, and create an ongoing record of research progress.
+Currently, the overview papers from this conference are collected in a special
+issue of the journal, Nuclear Fusion. Many of the contributed papers are also
+submitted to the journal for publication, and are indexed accordingly.
+
+Coordinated research projects and workshops
+The results of IAEA coordinated research projects and other technical activities
+are presented in a variety of IAEA publications. These would include the Atomic
+and Plasma–Material Interaction Data publications and in the IAEA Technical
+Reports Series and Technical Document (TECDOC) Series.
+
+Education
+The IAEA has always assisted Member States’ efforts in the arena of education,
+knowledge sharing and training by providing appropriate materials for researchers,
+students and educators. It has ensured the involvement of leading individuals
+in fusion and facilitated knowledge transfer. Published in 2012, the 1200 page
+graduate text, Fusion Physics, with its broad coverage of fusion topics, is an
+example.
+
+International Collaboration
+Arguably, the most strategic contribution of IAEA publications in fusion has
+been in support of large international projects. The global collaboration in fusion
+that became ITER was preceded by the experimental power reactor study,
+International Tokamak Reactor (INTOR), which had been pursued under the
+auspices of the IAEA. The IAEA published a series of publications arising from the
+
+21
+
+INTOR workshops. The IAEA has supported the ITER endeavour from its inception
+and through its founding as an independent international organization; and as
+part of this support has published a number of ITER-related publications. The
+importance of publications to the enterprise is indicated by the 2008 cooperation
+agreement between the two organizations which makes specific reference to,
+among other things, cooperation on publications.
+Looking to the future, the IAEA will facilitate knowledge dissemination in relation
+to demonstration fusion power plants (DEMO) and beyond.
+
+Responsive to Changing Requirements
+The IAEA endeavours to ensure that its information provision is agile and highly
+responsive to the evolving needs of the user communities. The topicality of the
+publications in fusion complements on-going activities worldwide. For example,
+the scope of research papers published in the IAEA journal Nuclear Fusion has
+changed over time. Earlier articles concentrated on plasma physics and the
+necessary conditions for fusion. Later, discussion on engineering issues, machine
+concepts and the results from an increasing number of machines were published.
+Another example would be that throughout the years, IAEA activities, which
+result in special journal issues, proceedings volumes and technical reports, have
+always addressed issues of contemporary research interest. Current concerns
+on fusion materials, safety and technology have therefore resulted in various
+IAEA publications, such as TECDOC-1829 Investigations of Materials under High
+Repetition and Intense Fusion Pulses, and TECDOC Integrated Approach to
+Safety Classification of Mechanical Components for Fusion Applications.
+
+Impact
+Whilst the impact of the IAEA’s contribution to knowledge dissemination through
+its fusion publications is difficult to quantify, measures such as the number of
+citations and the traffic to the online publications give an indication of worth and
+utility. There were nearly half a million downloads of Nuclear Fusion articles in
+2017, and according to the 2017 Journal Citation Reports®, the journal achieved
+an impact factor of over 4 (the highest in the field). The book, Fusion Physics,
+remains among the most popular online IAEA books, accessed over 20000 times
+since its publication.
+Through its publications, the IAEA provides continuity and an unbiased,
+international forum. With its close links with the fusion community, it ensures
+relevance and topicality of information.
+
+22
+
+Fusion Portal
+For further information regarding the IAEA fusion activities and to access all the
+news and publications, please visit the IAEA Fusion Portal:
+https://nucleus.iaea.org/sites/fusionportal.
+
+Recent Publications
+WU, Y., CHEN, Z., MENG, Z., HU, L., GONZALEZ DE VICENTE, S.M., MERRILL, B., PANAYOTOV, D., ZUCCHETTI,
+M., KOLBASOV, B., VAN HOUTTE, D., BUSTREO, C., KIM, Y., SAKAMOTO, Y., KIM, K., MAISONNIER, D., CLARK, D.,
+KALASHNIKOV, A., SUBBOTIN, M., Summary of the 2nd International Workshop on Environmental, Safety and Economic
+Aspects of Fusion Power, Nucl. Fusion 58 (2018) 097001,
+http://iopscience.iop.org/article/10.1088/1741-4326/aacaad
+GONZALEZ DE VICENTE, S.M., PRINJA, N., GAGLIARDI, M., LA ROVERE, S., PERRAULT, D., TAYLOR, N., Safety
+classification of mechanical components for fusion application, Fusion Eng. and Design (2018), available online:
+https://doi.org/10.1016/j.fusengdes.2018.04.108
+INTERNATIONAL ATOMIC ENERGY AGENCY, Integrated Approach to Safety Classification of Mechanical Components
+for Fusion Applications, IAEA-TECDOC accepted for publication, IAEA, Vienna (2018).
+INTERNATIONAL ATOMIC ENERGY AGENCY, Investigations of Materials under High Repetition and Intense Fusion
+Pulses, IAEA-TECDOC-1829, IAEA, Vienna (2017),
+https://www-pub.iaea.org/books/IAEABooks/11094/Investigations-of-Materials-under-High-Repetition-and-IntenseFusion-Pulses
+INTERNATIONAL ATOMIC ENERGY AGENCY, Atomic and Plasma–Material Interaction Data Volume 17, IAEA, Vienna
+(2017),
+https://www-pub.iaea.org/books/IAEABooks/12222/Atomic-and-Plasma-Material-Interaction-Data-Volume-17
+INTERNATIONAL ATOMIC ENERGY AGENCY, Utilization of a Network of Small Magnetic Confinement Fusion Devices for
+Mainstream Fusion Research, IAEA-TECDOC-1807, IAEA, Vienna (2016),
+https://www-pub.iaea.org/books/iaeabooks/11144/Utilization-of-a-Network-of-Small-Magnetic-Confinement-FusionDevices-for-Mainstream-Fusion-Research
+INTERNATIONAL ATOMIC ENERGY AGENCY, Fusion Energy: The Role of the IAEA, Information Booklet, IAEA, Vienna
+(2015),
+https://nucleus.iaea.org/sites/fusionportal/SiteCollectionDocuments/fusionbrochure_02.pdf
+
+23
+
+INTERNATIONAL ATOMIC ENERGY AGENCY, Atomic and Plasma–Material Interaction Data Volume 16, IAEA, Vienna
+(2014),
+https://www-pub.iaea.org/books/IAEABooks/8475/Atomic-and-Plasma-Material-Interaction-Data-for-Fusion
+INTERNATIONAL ATOMIC ENERGY AGENCY, Applications of Research Reactors towards Research on Materials for
+Nuclear Fusion Technology, IAEA-TECDOC-1724, IAEA, Vienna (2013),
+https://www-pub.iaea.org/books/IAEABooks/10574/Applications-of-Research-Reactors-towards-Research-onMaterials-for-Nuclear-Fusion-Technology.
+INTERNATIONAL ATOMIC ENERGY AGENCY, Integrated Approach to Dense Magnetized Plasmas Applications in Nuclear
+Fusion Technology, IAEA-TECDOC-1708, IAEA, Vienna (2013),
+https://www-pub.iaea.org/books/iaeabooks/10452/Integrated-Approach-to-Dense-Magnetized-Plasmas-Applicationsin-Nuclear-Fusion-Technology
+INTERNATIONAL ATOMIC ENERGY AGENCY, Pathways to Energy from Inertial Fusion: An Integrated Approach, IAEATECDOC-1704, IAEA, Vienna (2013),
+https://www-pub.iaea.org/books/iaeabooks/10379/Pathways-to-Energy-from-Inertial-Fusion-An-Integrated-Approach
+INTERNATIONAL ATOMIC ENERGY AGENCY, Dense Magnetized Plasmas, IAEA-TECDOC-1699, IAEA, Vienna (2013),
+https://www-pub.iaea.org/books/iaeabooks/10373/Dense-Magnetized-Plasmas
+KIKUCHI, M., LACKNER, K., TRAN, M.Q. (Eds), Fusion Physics, IAEA, Vienna (2012),
+https://www-pub.iaea.org/books/iaeabooks/8879/Fusion-Physics
+
+24
+
+Please visit our newly redesigned
+
+Fusion Portal
+
+https://nucleus.iaea.org/sites/fusionportal
+
+18-03925E
+
+
