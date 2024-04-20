@@ -1,0 +1,9 @@
+.centered-content {
+  text-align: center;
+}
+
+.centered-content img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
