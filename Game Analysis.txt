@@ -1,0 +1,26 @@
+Jonathon Schuschu
+Game Analysis Notes
+Zordak
+Visual And Audio Analysis
+The game has a great sense for exploration primarily through the pixel art graphics which give it a much bigger feel, making the world larger and giving players more to explore. The colors are perfect for this type of game as it is just about focusing on figuring out the puzzles and also finding out how to escape the planet. The audio in the game is mostly background music and some sounds from the things you run into while exploring. 
+ Game Settings
+Settings are a little iffy, Some areas are big with lots of open area while some areas are tiny. The movement and such are a little difficult and menus are kind of hard to understand to navigate. 
+Character Control and Development 
+It’s a single-player game while you are the main character, a female exploring the depths of an alien world. The character is depicted as strong and fearless as she makes her way fighting off aliens to get upgrades to unlock a suit. The backstory for the character and her personality all are available through environment interactions and logs. 
+NPC Interaction
+Not a lot of NPCS, mostly just mobs but other than that the only NPCs are mainly there to propel the story and help understand mechanics, like the drone at the start of the game. 
+Challenges and Progression
+The game has mostly puzzle-based challenges, with codes to unlock doors, things to break, and new rooms to find to progress it's very just puzzle-based. It requires a lot of focus and observation to complete. Players could get stuck if they miss clues, requiring backtracking which isn’t easy. 
+Object Interactions
+Objects in the game here all are powerups for the female hero, they enhance her abilities giving her an awesome battle suit like Samus in Metroid. No consumables or anything but codes and keys are a main item for progression. 
+Music and Sound
+The chill eerie vibe to the game fits well as you're just exploring these mysterious places on a mysterious alien planet. 
+Meta Commentary
+Nothing major that talks, the only thing that broke the 4th wall was the drone teaching you the controls. 
+Reflection of Reality and Cultural Issues
+The game is set in a whole different universe and it's hard to find themes without a lot of talking and commentary. You could say survival and isolation as you are alone trying to survive and escape the planet. 
+Future Development Speculation
+Co-Op could be added so you can explore with a friend or 2 to help figure out hard puzzles if added. Additional biomes and maybe more interactable NPCS. More in-depth backstory to understand who our character is. 
+
+
+

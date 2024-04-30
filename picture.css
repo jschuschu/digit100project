@@ -3,3 +3,31 @@
   margin-left: auto;
   margin-right: auto;
 }
+.image-row {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px; /* Adjust as needed for spacing between rows */
+}
+
+.image-container {
+  width: 32%; /* Each image container takes up a third of the container's width */
+  text-align: center; /* Center the text under the image */
+}
+
+.image-container img {
+  width: 100%; /* Make the image fill the container */
+  height: auto; /* Keep the image aspect ratio */
+  border: 1px solid #ccc; /* Optional border */
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.2); /* Optional shadow for style */
+  margin-bottom: 8px; /* Spacing between the image and the text snippet */
+}
+
+@media (max-width: 600px) { /* Adjust for mobile responsiveness */
+  .image-row {
+    flex-direction: column;
+  }
+  .image-container {
+    width: 100%; /* Each image container takes up full width on smaller screens */
+    margin-bottom: 15px; /* Space out images vertically */
+  }
+}
